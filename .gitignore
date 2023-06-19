@@ -1,0 +1,5 @@
+.DS_Store
+DRAFT.md
+data/*
+output/*
+models/prediksi_suhu_ratarata
