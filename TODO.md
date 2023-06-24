@@ -24,3 +24,4 @@ ddd_x: Arah angin saat kecepatan maksimum (°)
 ff_avg: Kecepatan angin rata-rata (m/s)
 ddd_car: Arah angin terbanyak (°)
 
+087838726309 atau email muliasulistiyono@amikom.ac.id
